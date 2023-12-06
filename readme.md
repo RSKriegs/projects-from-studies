@@ -1,6 +1,6 @@
-This is a repo with some projects from my studies - SGH Warsaw School of Economics & Polish-Japanese Academy of Information Technology.
+This is a repo with some smaller projects/assignments from my studies - SGH Warsaw School of Economics & Polish-Japanese Academy of Information Technology.
 
-I have decided to include only a handful of projects where I had a lot of room to develop my own solution in order to avoid any sort of concerns about plagiarism of lecturers' codebase, or revealing their tasks content.
+I have decided to include only a handful of projects where I had room to develop my own solution in order to avoid any sort of concerns about plagiarism of lecturers' codebase, or revealing their tasks content.
 
 Each project is logically grouped into subdirectories:
 
